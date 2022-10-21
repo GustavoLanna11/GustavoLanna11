@@ -1,4 +1,4 @@
-### Olá, eu sou o Gustavo Lanna!
+### Salve salve, eu sou o Gustavo Lanna!
 
 - 🌱 Estudando CSS e Javascript.
 - 😄 Pronouns: ele/dele.
