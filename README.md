@@ -1,6 +1,6 @@
 ### Salve salve, eu sou o Gustavo Lanna!
 
-- 🌱 Estudando CSS e Javascript.
+- 🌱 Trabalhando no TCC do curso de Desenvolvimento de Sistemas!.
 - 😄 Pronouns: ele/dele.
 
 
