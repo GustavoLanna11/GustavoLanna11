@@ -1,4 +1,4 @@
-### Fala meu cria, bem vindo ao perfil do Gusta, ou, Gus-ti-nha?, sinta-se em casa meu Rei(Ou Rainha)!
+### Fala meu cria, bem vindo ao perfil do Gusta, ou, Gus-ti-nha?, sinta-se em casa meu Rei (Ou Rainha)!
 
 - 🌱 Trabalhando no TCC do curso de Desenvolvimento de Sistemas!.
 - 😄 Pronouns: ele/dele.
