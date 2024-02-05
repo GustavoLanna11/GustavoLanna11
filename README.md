@@ -1,7 +1,8 @@
-### Fala meu cria, bem vindo ao perfil do Gusta, ou, Gus-ti-nha?, sinta-se em casa meu Rei (Ou Rainha)!
+### Seja ao bem-vindo ao meu perfil!
 
-- 🌱 Trabalhando no TCC do curso de Desenvolvimento de Sistemas!.
-- 😄 Pronouns: ele/dele.
+-  Técnico em Desenvolvimento de Sistemas.
+-  Front-end.
+-  Web Developer.
 
 
 <div align="center">
