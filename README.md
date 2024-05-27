@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3673f7&height=120&section=header"/>
-  
+  ola
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3673f7&size=35&center=true&vCenter=true&width=1000&lines=Wellcome!+My+Name+is+Gustavo+Lanna+;I'm+18+years+old;I'm+studying+Cross-Plataform+Development+at+Fatec+;Fell+free:%29)](https://git.io/typing-svg)
 
 
