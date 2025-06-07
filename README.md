@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3673f7&height=120&section=header"/>
 
-
+<h2>Gustavo Lanna<h2>
 <h3>👨‍💻 Front-end Dev | Node.js | React.js | UX/UI Design | Figma </h3> 
 <hr>
-<h3>Formação Acadêmica<h3> <hr>
+<h2>Formação Acadêmica<h2>
 <p>📚 | Desenvolvimento de Software Multiplataforma <br></p>
 <p>🎓 | Técnico em Desenvolvimento de Sistemas - Etec <br></p>
 
