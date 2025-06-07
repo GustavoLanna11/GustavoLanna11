@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3673f7&height=120&section=header"/>
 
-<h1 style="color:#3673f7"> Gustavo Lanna </h1>
+<h1 style="color:#3673f7; text-align: center"> Gustavo Lanna </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3673f7&size=35&center=true&vCenter=true&width=1000&lines=Wellcome!+I'm+Gustavo+Lanna+;I'm+19+years+old;I'm+studying+Cross-Plataform+Development+at+Fatec+;:%29)](https://git.io/typing-svg)
 
