@@ -3,8 +3,8 @@
 <h1>Gustavo Lanna 🧑🏾‍💻</h1>
 <h3>👨‍💻 Front-end Dev | Node.js | React.js | UX/UI Design | Figma </h3> 
 <hr>
-<h4>📚 | Desenvolvimento de Software Multiplataforma <br></h4>
-<h4>🎓 | Técnico em Desenvolvimento de Sistemas - Etec <br></h4>
+<p>📚 | Desenvolvimento de Software Multiplataforma <br></p>
+<p>🎓 | Técnico em Desenvolvimento de Sistemas - Etec <br></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3673f7&size=35&center=true&vCenter=true&width=1000&lines=Wellcome!+I'm+Gustavo+Lanna+;I'm+19+years+old;I'm+studying+Cross-Plataform+Development+at+Fatec+;:%29)](https://git.io/typing-svg)
 
