@@ -3,6 +3,7 @@
 
 <h3>👨‍💻 Front-end Dev | Node.js | React.js | UX/UI Design | Figma </h3> 
 <hr>
+<h3>Formação Acadêmica<h3> <hr>
 <p>📚 | Desenvolvimento de Software Multiplataforma <br></p>
 <p>🎓 | Técnico em Desenvolvimento de Sistemas - Etec <br></p>
 
