@@ -7,10 +7,10 @@ Estudante de **Desenvolvimento de Sistemas Multiplataforma** na Fatec. Focado em
 ---
 
 ### 📊 Estatísticas e Atividade
-<div align="center">
-  <img height="185px" src="https://github-readme-stats.vercel.app/api?username=GustavoLanna11&show_icons=true&count_private=true&hide_border=true&title_color=3673f7&icon_color=3673f7&text_color=ffffff&bg_color=0d1117" />
-  <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLanna11&layout=compact&hide_border=true&title_color=3673f7&text_color=ffffff&bg_color=0d1117" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoLanna11&show_icons=true&count_private=true&hide_border=true&title_color=3673f7&icon_color=3673f7&text_color=ffffff&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLanna11&layout=compact&hide_border=true&title_color=3673f7&text_color=ffffff&bg_color=0d1117" />
+</p>
 
 <br>
 
