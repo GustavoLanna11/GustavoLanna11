@@ -1,35 +1,35 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3673f7&height=120&section=header"/>
+
 # Olá, eu sou o Gustavo Lanna 👋
 
-Estudante de Desenvolvimento de Sistemas Multiplataforma na **Fatec**. Apaixonado por transformar ideias em código e interfaces funcionais.
+Estudante de **Desenvolvimento de Sistemas Multiplataforma** na Fatec. Focado em construir soluções eficientes e interfaces intuitivas.
 
 ---
 
 ### 📊 Estatísticas e Atividade
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoLanna11&show_icons=true&count_private=true&hide_border=true&title_color=3673f7&icon_color=3673f7&text_color=ffffff&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLanna11&layout=compact&hide_border=true&title_color=3673f7&text_color=ffffff&bg_color=0d1117" />
+  <img height="185px" src="https://github-readme-stats.vercel.app/api?username=GustavoLanna11&show_icons=true&count_private=true&hide_border=true&title_color=3673f7&icon_color=3673f7&text_color=ffffff&bg_color=0d1117" />
+  <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLanna11&layout=compact&hide_border=true&title_color=3673f7&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/GustavoLanna11">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoLanna11&bg_color=0d1117&color=3673f7&line=07e9a5&point=0a855c&area=true&hide_border=true" />
-  </a>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoLanna11&bg_color=0d1117&color=3673f7&line=07e9a5&point=0a855c&area=true&hide_border=true" />
 </div>
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Main Stack:**
+**Desenvolvimento:**
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)
 
-**Ferramentas:**
+**Ferramentas e Design:**
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma)
@@ -40,9 +40,6 @@ Estudante de Desenvolvimento de Sistemas Multiplataforma na **Fatec**. Apaixonad
 <div align="left">
   <a href="https://www.instagram.com/gustavolanna11/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
 </div>
 
